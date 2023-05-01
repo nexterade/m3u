@@ -1,0 +1,310 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Religi",ADI Tv
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+#EXTINF:-1 group-title="Anak-Anak",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 group-title="Movie",Action Movies
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="Tv Nasional",ANTV 
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Aniplus 
+http://210.210.155.37/dr9445/h/h02/index10.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ANIPLUS_HD
+#EXTINF:-1 group-title="Berita",Astro CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="Berita",Astro Awani HD
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 group-title="Lainnya",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Berita", Al Jazeera English HD
+https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Olahraga", Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Olahraga", Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Movie",BOO
+http://23.237.10.66:16420
+#EXTINF:-1 group-title="Olahraga",beIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+#EXTINF:-1 group-title="Berita",Berita Satu 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="Berita",Berita Satu World 
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="Berita",Berita Satu English 
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 group-title="Pengetahuan,Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="Petualang Alam",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="Pengetahuan",CCTV4 
+http://rr2.dens.tv/s/s19/index.m3u8
+#EXTINF:-1 group-title="Berita",CNBC 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 group-title="Berita",CNN HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="Movie",Celestial Classic Movies
+http://rr2.dens.tv/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+#EXTINF:-1 group-title="Lainnya",Crime Time
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Religi",Daai TV 
+http://210.210.155.35:80/session/0cf88fd2-efe7-11ec-ad34-b82a72d63267/qwr9ew/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
+#EXTINF:-1 group-title="Pengetahuan",Discovery Shed
+http://87.212.248.44:60130/play/a04w
+#EXTINF:-1 group-title="Petualang Alam",Discovery Channel
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862652&extension=m3u8
+#EXTINF:-1 group-title="Lainnya",Digione Maxstream 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Duck TV 
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Olahraga",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Olahraga",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Olahraga",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Lainnya",El John TV
+https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
+#EXTINF:-1 group-title="Olahraga",Edge Sports
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Berita",France 24 HD
+http://87.212.248.44:60130/play/a08r
+#EXTINF:-1 group-title="Olahraga",Fightbox
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Lainnya",Fashion TV HD
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Happy Kids Jr
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Happy Kids 
+https://happykids-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Tv Daerah",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religi",Insan Tv
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1 group-title="Tv Daerah",Indosiana TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
+#EXTINF:-1 group-title="Petualang Alam",Inwild
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Tv Daerah",JPM
+http://122.248.43.138:1935/ch6/myStream/chunklist_w1818250765.m3u8
+#EXTINF:-1 group-title="Tv Daerah",JawaPos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 group-title="Movie",Kix
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:-1 group-title="Movie",KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="Petualang Alam",Love Nature 4K
+https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:-1 group-title="Tv Nasional",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Olahraga",Motorvision TV
+http://rr.dens.tv/h/h09/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
+#EXTINF:-1 group-title="Pengetahuan",Nasa TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Tv Nasional",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Pop
+http://87.212.248.44:60130/play/a05y
+#EXTINF:-1 group-title="Lainnya",People Are Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="Olahraga",Rakuten 
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Olahraga",Redbull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Berita",Russia Today
+https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+#EXTINF:-1 group-title="Religi",Rodja TV
+http://rr2.dens.tv/s/s14/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RodjaTV
+#EXTINF:-1 group-title="Lainnya",Smithsonian Channel HD
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Petualang Alam",Samsung Wild life
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Olahraga",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Tv Daerah",Tv Edukasi
+http://118.98.221.131/live/smil:tvedukasi.smil/chunklist_w1108734503_b980000.m3u8
+#EXTINF:-1 group-title="Tv Nasional",TVRI 
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:-1 group-title="Tv Nasional",TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Tv Nasional",TVRI Nasional
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Tv Nasional",TVRI World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Tv Nasional",Trans 7 HD 
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="Tv Nasional",Trans TV HD 
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Tiny Pop
+http://87.212.248.44:60130/play/a08c
+#EXTINF:-1 group-title="Tv Daerah",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1 group-title="Lainnya",The K-Pop
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+#EXTINF:-1 group-title="Lainnya",TVN Movies
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="Lainnya",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Tv Daerah",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 group-title="Olahraga",Usee Prime
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 group-title="Olahraga",Bein Sports Premium 1
+https://m3u-editor.com/serve/eae00dd0-5376-11ed-93c7-1b3b80c18eef/667632937
+#EXTINF:-1 group-title="Olahraga",Bein Sports Premium 2
+https://m3u-editor.com/serve/eae00dd0-5376-11ed-93c7-1b3b80c18eef/667632938
+#EXTINF:-1 group-title="Olahraga",Bein Sports Premium 3
+https://m3u-editor.com/serve/eae00dd0-5376-11ed-93c7-1b3b80c18eef/667632939
+#EXTINF:-1 group-title="Berita",Jakarta Globe HD
+http://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 group-title="Olahraga",Barca TV
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/48659.m3u8
+#EXTINF:-1 group-title="Olahraga",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="Olahraga",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+#EXTINF:-1 group-title="Olahraga",BILLIARD TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Nick Jr Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Nickelodeon
+https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+#EXTINF:-1 group-title="Anak-Anak",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Lainnya",Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Tv Daerah",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1 group-title="Berita",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Anak-Anak",TVS Hi Tops
+https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 group-title="Anak-Anak",TVS Pinball Network
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Three Angels
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Teletubbies
+https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
+#EXTINF:-1 group-title="Berita",CNBC Asia
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Tv Nasional",Moji
+http://rr2.dens.tv/s/s41/index.m3u8
+#EXTINF:-1 group-title="Tv Nasional",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 group-title="Tv Nasional",Metro Tv
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="Olahraga",Tennis HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Olahraga",SPORT ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 group-title="Movie",Flix
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="Tv Daerah",ATVLI
+https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
+#EXTINF:-1 group-title="Tv Daerah",Batam TV
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Tv Daerah",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="Movie",My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1 group-title="Olahraga",EltaSports(Taiwan)
+http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1,Nature
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Tv Daerah",BETV
+https://h1.intechmedia.net/intech/ch30.m3u8
+#EXTINF:-1 group-title="Tv Daerah",Pal TV
+https://v3.siar.us/paltv/live/playlist.m3u8
+#EXTINF:-1 group-title="Lainnya",Dens Food Channel
+http://210.210.155.37/x6bnqe/s/s38/index.m3u8
+#EXTINF:-1 group-title="Pengetahuan",Dens Knowledge and Learning
+http://210.210.155.37/x6bnqe/s/s36/index.m3u8
+#EXTINF:-1 group-title="Petualang Alam",History East
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Petualang Alam",Shield
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8
+#EXTINF:-1 group-title="Lainnya",Netlink TV
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 group-title="Movie",NETV Toronto
+https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:-1 group-title="Olahraga",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Anak-Anak",RETRO Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Big Buck Bunny HD
+https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Nicktoon
+http://208.86.19.13:81/15.stream/index.m3u8
+#EXTINF:-1 group-title="Anak-Anak",ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movie",CinemA Europe
+http://210.210.155.35:80/uq2663/h/h18/02.m3u8
+#EXTINF:-1 group-title="Movie",K+
+http://45.126.83.51/uq2663/h/h08/02.m3u8
+#EXTINF:-1 group-title="Movie",CCM
+http://rr2.dens.tv/s/s31/index.m3u8
+#EXTINF:-1 group-title="Olahraga",Race
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
+#EXTINF:-1 group-title="Lainnya",Game Show
+https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Lainnya",Gear Head
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Chassy/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Movie",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 group-title="Movie",THRILL
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="Movie",TVN Premium Indonesia
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:-1 group-title=:"Movie",TVN Movies Indonesia
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 group-title="Anak-Anak",Anime All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Anak-Anak",Pluto TV Kids Animation
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Petualang Alam",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="Knowledge",Discovery
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157597
+#EXTINF:-1 group-title="Knowledge",Animal Planet
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157532
+#EXTINF:-1 group-title="Knowledge",Nat Geo
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165094
+#EXTINF:-1 group-title="Knowledge",Nat Geo Wild
+http://iptvtree.net:8080/nika/ee07c53d/174724
+#EXTINF:-1 group-title="Knowledge",History
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162519
+#EXTINF:-1 group-title="Knowledge",Nasa TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Knowledge",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Knowledge",Samsung Wild life
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge",Inwild
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge",HGTV
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157578
+#EXTINF:-1 group-title="Tv Nasional",SCTV 
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=SCTV
+#EXTINF:-1 group-title="Tv Nasional",Indosiar
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+#EXTINF:-1 group-title="Tv Nasional",Trans Tv 
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Tv Nasional",Trans 7
+http://iptvtree.net:8080/nika/ee07c53d/162502
+#EXTINF:-1 group-title="Tv Nasional",MNC
+http://iptvtree.net:8080/nika/ee07c53d/165054
+#EXTINF:-1 group-title="Tv Nasional",iNews
+http://iptvtree.net:8080/nika/ee07c53d/157579
+#EXTINF:-1 group-title="Tv Nasional",NET HD
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 group-title="Tv Nasional",Kompas Tv
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 group-title="Tv Nasional",Metro Tv
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Tv Nasional",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
