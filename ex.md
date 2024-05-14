@@ -1,0 +1,1 @@
+export WALLET=suiprivkey1qrcc8gvg7de368gqp23smm9r3awhaj3u4cvv7yzsh9ar9p5557c4spfkwx5
