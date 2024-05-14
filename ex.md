@@ -1,8 +1,5 @@
 https://mineral.supply/
 Address: 0x052dfd102451f3a7fcc4e8fd0a1ace097f416062423c2ce3775b5e7983de0146
-PK: suiprivkey1qrcc8gvg7de368gqp23smm9r3awhaj3u4cvv7yzsh9ar9p5557c4spfkwx5
-
-
 
 Yang Mining Mining aja
 https://mineral.supply
